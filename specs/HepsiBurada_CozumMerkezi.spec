@@ -6,6 +6,7 @@ HepsiBurada
 
 * Şuanki URL'in "https://www.hepsiburada.com/cozummerkezi" değerini içerdiği kontrol edilir
 * "SiparisimİleİlgiliSorumVar_Button" elementine tıklanır
+//concept dosyasından login girişleri beslenmektedir.
 * HepsiBurada hesabına giriş yapılır
 * "SiparisiBulunmamaktadır_Text" elementinin texti "Siparişiniz bulunmamaktadır" değerini içerir
 * "SidenavKapat_Button" elementine tıklanır

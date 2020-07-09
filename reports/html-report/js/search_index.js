@@ -1,1 +1,1 @@
-var index = {"Tags":{},"Specs":{"Status Kontrol Senaryosu":["specs/StatusKontrolSenaryosu.html"]}};
+var index = {"Tags":{},"Specs":{"HepsiBurada":["specs/HepsiBurada_CozumMerkezi.html"]}};
