@@ -1,0 +1,77 @@
+[
+  {
+    "key": "SiparisimİleİlgiliSorumVar_Button",
+    "value": ".button-primary-default",
+    "type": "css"
+  },
+  {
+    "key": "SiparisiBulunmamaktadır_Text",
+    "value": ".order-error",
+    "type": "css"
+  },
+  {
+    "key": "SidenavKapat_Button",
+    "value": ".close-icon",
+    "type": "css"
+  },
+  {
+    "key": "FarklıBirKonudaSorumVar_Button",
+    "value": ".button-secondary-default",
+    "type": "css"
+  },
+  {
+    "key": "TeslimatVeKargo_Button",
+    "value": "div.side-bar-container > div:nth-of-type(4)",
+    "type": "css"
+  },
+  {
+    "key": "EksikHatalıTeslimat_Button",
+    "value": "div.all-subs > div:nth-of-type(2)",
+    "type": "css"
+  },
+  {
+    "key": "AldığımÜrünOrjinalDeğil_Button",
+    "value": "div.help-page-container > div:nth-of-type(2) div:nth-of-type(8) > .cell-header",
+    "type": "css"
+  },
+  {
+    "key": "LoginEposta_Input",
+    "value": "txtUserName",
+    "type": "id"
+  },
+  {
+    "key": "LoginSifre_Input",
+    "value": "txtPassword",
+    "type": "id"
+  },
+  {
+    "key": "GirisYap_Button",
+    "value": "btnLogin",
+    "type": "id"
+  },
+  {
+    "key": "BeniArayın_Button",
+    "value": "div.rule-messages > div:nth-of-type(2) .text",
+    "type": "css"
+  },
+  {
+    "key": "AramaTalebiOlustur_Text",
+    "value": ".bottom-sheet-title",
+    "type": "css"
+  },
+  {
+    "key": "AramaTalebiTelefonNo_Text",
+    "value": ".select-box-text",
+    "type": "css"
+  },
+  {
+    "key": "AramaTalebiKontrolü_Text",
+    "value": ".main-text",
+    "type": "css"
+  },
+  {
+    "key": "AramaTalebiOlusturGonder_Button",
+    "value": ".button-primary",
+    "type": "css"
+  }
+]
